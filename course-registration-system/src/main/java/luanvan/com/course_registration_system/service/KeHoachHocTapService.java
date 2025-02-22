@@ -149,16 +149,6 @@ public class KeHoachHocTapService {
 
         return convertToResponse(keHoachHocTap);
     }
-    //lay khht theo mssv va mahocki
-    public KeHoachHocTapResponse getKeHoachHocTapByMaSinhVienAndMaHocKy(String maSinhVien, String maHocKy) {
-        // Tìm kế hoạch học tập theo mã sinh viên và mã học kỳ
-        KeHoachHocTap keHoachHocTap = keHoachHocTapRepository
-                .findByMaSinhVienAndHocKy_MaHocKy(maSinhVien, maHocKy)
-                .orElseThrow(() -> new AppException(ErrorCode.KE_HOACH_NOT_FOUND));
-
-        // Chuyển đổi entity sang response và trả về
-        return convertToResponse(keHoachHocTap);
-    }
 
 
 }
