@@ -34,6 +34,7 @@ public class KeHoachHocTapController {
         return ResponseEntity.ok(keHoachHocTapService.addHocPhanToKeHoach1(maSinhVien, maHocKy, maHocPhan));
     }
 
+    //xóa mahocphan theo hocki theo mssv
     @DeleteMapping("/{maSinhVien}/hoc-ky/{maHocKy}/remove-hocphan/{maHocPhan}")
     public ResponseEntity<?> removeHocPhanFromKeHoach(
             @PathVariable String maSinhVien,
@@ -49,9 +50,18 @@ public class KeHoachHocTapController {
     public ResponseEntity<List<KeHoachHocTapResponse>> getKeHoachByMaSinhVien(@PathVariable String maSinhVien) {
         return ResponseEntity.ok(keHoachHocTapService.getKeHoachByMaSinhVien(maSinhVien));
     }
+
     @GetMapping("/chi-tiet/{maSinhVien}")
     public ResponseEntity<List<KeHoachHocTapResponse>> getKeHoachChiTiet(@PathVariable String maSinhVien) {
         return ResponseEntity.ok(keHoachHocTapService.getKeHoachHocTapChiTietByMaSinhVien(maSinhVien));
+    }
+
+    @GetMapping("/{maSinhVien}/{maHocKy}")
+    public ResponseEntity<KeHoachHocTapResponse> getKeHoachHocTapByMaSinhVienAndMaHocKy(
+            @PathVariable String maSinhVien,
+            @PathVariable String maHocKy) {
+        KeHoachHocTapResponse response = keHoachHocTapService.getKeHoachHocTapByMaSinhVienAndMaHocKy(maSinhVien, maHocKy);
+        return ResponseEntity.ok(response);
     }
 
 //    @GetMapping("/chi-tiet/{maSinhVien}")
