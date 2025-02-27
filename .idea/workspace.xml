@@ -4,59 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e6d4699-adbb-418b-bd45-1285788eb70e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/fontend/src/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontend/src/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontend/src/home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontend/src/kehoachhoctap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontend/src/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontend/src/pages/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontend/src/pages/KeHoachHocTap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontend/src/pages/Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontend/src/pages/RegisterCountdown.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course-registration-system/src/main/java/luanvan/com/course_registration_system/controller/HocKyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/course-registration-system/src/main/java/luanvan/com/course_registration_system/controller/HocKyController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course-registration-system/src/main/java/luanvan/com/course_registration_system/controller/KeHoachHocTapController.java" beforeDir="false" afterPath="$PROJECT_DIR$/course-registration-system/src/main/java/luanvan/com/course_registration_system/controller/KeHoachHocTapController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course-registration-system/src/main/java/luanvan/com/course_registration_system/service/KeHoachHocTapService.java" beforeDir="false" afterPath="$PROJECT_DIR$/course-registration-system/src/main/java/luanvan/com/course_registration_system/service/KeHoachHocTapService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/fontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/fontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/fontend/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/fontend/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fontend/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fontend/public/logo.svg" afterDir="false" />
+    <list default="true" id="4515bae6-20af-4b1a-adb2-bdde3b5c2a64" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-registration-system/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-registration-system/target/classes/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-registration-system/target/classes/luanvan/com/course_registration_system/CourseRegistrationSystemApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-registration-system/target/classes/luanvan/com/course_registration_system/config/RestTemplateConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-registration-system/target/classes/luanvan/com/course_registration_system/controller/HocKyController.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="JSX File" />
-        <option value="Interface" />
-        <option value="Enum" />
-        <option value="Exception" />
-        <option value="Class" />
-        <option value="JavaScript File" />
-        <option value="CSS File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/fontend" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="KubernetesApiPersistence">{}</component>
-  <component name="KubernetesApiProvider">{
-  &quot;isMigrated&quot;: true
-}</component>
-  <component name="ProblemsViewState">
-    <option name="showPreview" value="true" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
-}</component>
-  <component name="ProjectId" id="2t4iPrSXny8E8QdxoHtbGaYKrQ1" />
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2tcc4YEuzz1nj2OGzbwd4RwRMXc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -64,45 +39,29 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "JUnit.CourseRegistrationSystemApplicationTests.contextLoads.executor": "Run",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
     "Spring Boot.CourseRegistrationSystemApplication.executor": "Run",
     "Spring Boot.CourseServiceApplication.executor": "Run",
+    "Spring Boot.DangkihocphanServiceApplication.executor": "Run",
     "Spring Boot.IdentityServiceApplication.executor": "Run",
     "Spring Boot.StudentServiceApplication.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Rebasing main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/diemh/OneDrive - ctu.edu.vn/Desktop/luanvan-project/course-registration-system/pom.xml",
-    "list.type.of.created.stylesheet": "CSS",
+    "last_opened_file_path": "D:/luanvan-project/dangkihocphan-service/pom.xml",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
     "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "terminal",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.3.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\diemh\OneDrive - ctu.edu.vn\Desktop\luanvan-project\fontend\public" />
-      <recent name="C:\Users\diemh\OneDrive - ctu.edu.vn\Desktop\luanvan-project\fontend\src" />
-      <recent name="C:\Users\diemh\OneDrive - ctu.edu.vn\Desktop\luanvan-project\course-service\src\main\java\com\programmingtechie\course_service\service" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.programmingtechie.course_service.service" />
-      <recent name="com.programmingtechie.dto" />
-    </key>
-  </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -113,17 +72,8 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.CourseServiceApplication">
-    <configuration name="All in identity-service" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="identity-service" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Spring Boot.CourseRegistrationSystemApplication">
     <configuration name="CourseRegistrationSystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="course-registration-system" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="luanvan.com.course_registration_system.CourseRegistrationSystemApplication" />
       <method v="2">
@@ -131,41 +81,34 @@
       </method>
     </configuration>
     <configuration name="CourseServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="course-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.programmingtechie.course_service.CourseServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DangkihocphanServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="dangkihocphan-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="luanvan.com.dangkihocphan_service.DangkihocphanServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IdentityServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="identity-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.programmingtechie.IdentityServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="StudentServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="student-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.programmingtechie.student_service.StudentServiceApplication" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.programmingtechie.student_service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Spring Boot.StudentServiceApplication" />
-        <item itemvalue="JUnit.All in identity-service" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -178,46 +121,27 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7e6d4699-adbb-418b-bd45-1285788eb70e" name="Changes" comment="" />
-      <created>1739617726316</created>
+      <changelist id="4515bae6-20af-4b1a-adb2-bdde3b5c2a64" name="Changes" comment="" />
+      <created>1740654612913</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1739617726316</updated>
-      <workItem from="1739617727412" duration="15378000" />
-      <workItem from="1739787664689" duration="12893000" />
-      <workItem from="1739867125961" duration="2892000" />
-      <workItem from="1739872919996" duration="1229000" />
-      <workItem from="1739950189510" duration="28682000" />
-      <workItem from="1740083906109" duration="34844000" />
-      <workItem from="1740300166530" duration="13765000" />
-      <workItem from="1740333739106" duration="8250000" />
+      <updated>1740654612913</updated>
+      <workItem from="1740654614940" duration="767000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="main" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dangkihocphan-service/src/main/java/luanvan/com/dangkihocphan_service/DangkihocphanServiceApplication.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
